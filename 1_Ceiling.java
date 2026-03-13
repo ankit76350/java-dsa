@@ -12,6 +12,10 @@ class Ceiling{
         int start=0;
         int end = arr.length-1;
 
+        if (arr[end] < target) {
+            return -1;
+        }
+
         while (start<end) {
             int mid = start + (end - start)/2;
             if (target==arr[mid]) {
@@ -25,10 +29,6 @@ class Ceiling{
             }
         }
 
-        //start == end 
-        if (arr[end] < target) {
-            return -1;
-        }
 
         //start and end eqaul
         return start; // return end;
