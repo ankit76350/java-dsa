@@ -46,6 +46,7 @@ class BinarySearchInMatrix {
         int eRow = rows - 1;
         int cMid = cols / 2;
 
+        //due to this (sRow < eRow - 1) condition here always two rows left in the last
         while (sRow < eRow - 1) {
             int rMid = sRow + (eRow - sRow) / 2;
 
