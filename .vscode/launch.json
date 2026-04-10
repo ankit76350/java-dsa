@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "WhatIsRecursion",
+      "request": "launch",
+      "mainClass": "WhatIsRecursion",
+      "projectName": "dsa_44e781e3"
+    },
+    {
+      "type": "java",
       "name": "Run Pattern",
       "request": "launch",
       "mainClass": "Pattern"
