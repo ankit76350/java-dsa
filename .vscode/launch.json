@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "FibonacciRecursion",
+      "request": "launch",
+      "mainClass": "FibonacciRecursion",
+      "projectName": "dsa_44e781e3"
+    },
+    {
+      "type": "java",
       "name": "WhatIsRecursion",
       "request": "launch",
       "mainClass": "WhatIsRecursion",
