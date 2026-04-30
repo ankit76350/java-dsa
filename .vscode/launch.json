@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "FindUnique",
+      "request": "launch",
+      "mainClass": "FindUnique",
+      "projectName": "dsa_44e781e3"
+    },
+    {
+      "type": "java",
       "name": "EvenOrOdd",
       "request": "launch",
       "mainClass": "EvenOrOdd",
