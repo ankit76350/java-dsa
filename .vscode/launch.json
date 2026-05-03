@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PowOfNum",
+      "request": "launch",
+      "mainClass": "PowOfNum",
+      "projectName": "dsa_44e781e3"
+    },
+    {
+      "type": "java",
       "name": "FindUnique",
       "request": "launch",
       "mainClass": "FindUnique",
