@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "FindSquareRoot",
+      "request": "launch",
+      "mainClass": "FindSquareRoot",
+      "projectName": "dsa_44e781e3"
+    },
+    {
+      "type": "java",
+      "name": "Sieve",
+      "request": "launch",
+      "mainClass": "Sieve",
+      "projectName": "dsa_44e781e3"
+    },
+    {
+      "type": "java",
       "name": "CountSetBits",
       "request": "launch",
       "mainClass": "CountSetBits",
