@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "NewtonSQRT",
+      "request": "launch",
+      "mainClass": "NewtonSQRT",
+      "projectName": "dsa_44e781e3"
+    },
+    {
+      "type": "java",
       "name": "FindSquareRoot",
       "request": "launch",
       "mainClass": "FindSquareRoot",
