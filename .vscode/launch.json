@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Factor",
+      "request": "launch",
+      "mainClass": "Factor",
+      "projectName": "dsa_44e781e3"
+    },
+    {
+      "type": "java",
       "name": "NewtonSQRT",
       "request": "launch",
       "mainClass": "NewtonSQRT",
